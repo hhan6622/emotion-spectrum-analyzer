@@ -1,0 +1,1126 @@
+[
+  {
+    "input": "今天真是太开心了，收到了最好的礼物！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "我感到无比的快乐和幸福。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个消息太棒了，简直不敢相信！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "阳光明媚的一天，心情特别好！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "终于完成了目标，太有成就感了！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "和朋友聚会，笑得合不拢嘴。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "考试通过了，开心得跳起来！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "吃到美味的食物，幸福感爆棚。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到孩子笑脸，心里暖暖的。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "工作顺利，老板表扬了我！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "周末出游，玩得特别尽兴！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "收到了心仪的offer，激动不已！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "恋人送的花，甜蜜又感动。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "健身成果显著，身材变好了！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "终于买到了想要的房子！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "股票大涨，赚了不少钱！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "被夸奖了，心里美滋滋的。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "解决了难题，成就感满满。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "看电影笑得很开心，放松极了。",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "生日派对太热闹，朋友都来了！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "今天阳光灿烂，心情也跟着明媚起来！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "减肥成功了，穿上心仪的裙子美滋滋！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "客户终于签单了，努力没有白费！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "学会了一道新菜，家人夸我厨艺好！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "旅行计划终于成行，兴奋得睡不着！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "升职加薪，老板特别认可我的能力！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "孩子学会走路了，激动得眼眶湿润！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "多年老友重逢，回忆满满感动不已！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "抢到了演唱会门票，太幸运了！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "游戏通关了，满满的成就感！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "咖啡店偶遇偶像，幸福来得太突然！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "新车终于提了，兴奋地绕着车转圈！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "毕业论文通过了，如释重负！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "收到意外的红包，开心得手舞足蹈！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "第一次演讲成功，观众掌声雷动！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "中奖了！虽然不多但运气爆棚！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "终于还清贷款，无债一身轻！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "猫咪生了一窝小奶猫，太可爱了！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "学会了游泳，突破自己的恐惧！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "收到期待已久的包裹，拆礼物最快乐！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 75}"
+  },
+  {
+    "input": "听到这个噩耗，我心都碎了。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "眼泪止不住地流下来，好难过。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "感到深深的无助和悲伤。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "失去了亲人，心里空荡荡的。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "分手了，心如刀割般痛苦。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "考试失败了，失望又沮丧。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "工作丢了，前途一片迷茫。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "被误解了，委屈得想哭。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到悲剧电影，眼泪流不停。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "生病了，身体和心理都很难受。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "朋友离开了，感到很孤独。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "宠物去世了，伤心了好几天。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "努力白费了，感到很绝望。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "被拒绝了，心里很受伤。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "想念家乡，思乡之情涌上心头。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "雨天阴沉，心情也跟着低落。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "失眠了，疲惫又烦躁。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "回忆往事，伤感又怀念。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "没人理解我，感到很孤单。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "梦想破灭了，心灰意冷。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "钱包丢了，整个下午都在自责。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "错过最后一般地铁，只能步行回家。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "生日那天却没人记得，失落感袭来。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "失业了，不知道怎么跟家人交代。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "最好的朋友要离开了，难舍难分。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "亲人住院了，心里忐忑不安。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "努力准备的面试还是失败了。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "电脑坏了，所有资料都没了。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "感情走到了尽头，心如刀割。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "辜负了父母的期望，压力山大。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "丢失了珍贵的照片，遗憾终生。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "身体检查出了问题，担忧不已。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "错过了孩子的成长瞬间。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "被信任的人背叛，痛彻心扉。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "项目搞砸了，前途未卜。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "快递丢失，维权无门。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "漏水把楼下邻居家淹了。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "钥匙锁家里了，进不去门。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "信用卡逾期了，焦虑万分。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现身边的人都在欺骗自己。",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 75}"
+  },
+  {
+    "input": "你为什么要这样对我？我真的很生气！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "别再烦我了，我现在火气很大！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "这种行为简直不可理喻，让人愤怒。",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被欺骗了，怒火中烧！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "服务态度太差，气死我了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "明明是我的功劳却被抢走了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "排队太久，耐心耗尽了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被无故批评，心里很不服气！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "交通堵塞，烦躁又愤怒！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "同事不配合，工作受阻很恼火！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "孩子不听话，教育起来很生气！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被插队了，当场就发火了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "产品质量太差，投诉无门！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被恶意评论，愤怒又无奈！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "约定被取消，计划全乱了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被无理指责，冤枉又气愤！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "噪音太大，吵得头疼！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被忽视冷落，感到很不满！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "不公平待遇，心里很憋屈！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到不道德行为，义愤填膺！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "插队还理直气壮，真是无语了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被虚假宣传骗了，忍无可忍！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "火车被人占座了素质在哪！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "等了两小时客服才接电话！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "商家虚假发货欺骗消费者！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被人背后说坏话小人得志！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "总是被放鸽子靠谱就这么难？",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "乱停车的真的没素质！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "网络卡顿关键比赛输了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被强制加班没有加班费！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "公共场合大声喧哗没公德心！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "总是被拿来和别人比较！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "说了多少遍还是记不住！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被敷衍了事态度太恶劣！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "承诺不兑现真的很讨厌！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "噪音扰民投诉没人管！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "被道德绑架心里很不爽！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "总是被否定努力白费了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "恶意差评竞争对手太卑鄙！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到路怒症差点出事故！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 75}"
+  },
+  {
+    "input": "天黑了，一个人走在巷子里好害怕。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "那种恐惧感笼罩着我，动弹不得。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "我真的很担心会发生不好的事情。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "听到奇怪的声音，吓得不敢动。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "看恐怖片，吓得睡不着觉。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "考试前紧张得手心出汗。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "面试压力很大，心里忐忑。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "走夜路总感觉有人跟踪。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "担心健康问题，焦虑不安。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "高空作业，害怕得腿发软。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到蜘蛛，吓得尖叫起来。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "担心孩子安全，时刻紧张。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "投资风险大，心里很担忧。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "演讲前紧张得心跳加速。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "独自在家，总觉得不安。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "担心失业，焦虑又恐慌。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到新闻报道灾难，心里害怕。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "深夜加班，环境让人恐惧。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "担心亲人健康，忧心忡忡。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "未知的结果让我很紧张。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "夜深人静听到奇怪的声音。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "体检报告有几个指标不正常。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "独自在陌生的城市迷路。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "听到远处传来的雷声。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到新闻里发生的意外。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "在公司群里被领导点名。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "房东突然说要收回房子。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "手机快没电又找不到充电宝。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "突然收到法院传票。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现家里门没锁好。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "要上台发言却忘词了。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "银行卡突然被冻结。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到社交媒体上的恶意攻击。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "深夜独自等电梯的恐惧。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现账户异常被盗刷。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到凶猛的流浪狗。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "飞机遇到气流颠簸。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "伤口感染情况恶化。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "被陌生人一直盯着看。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "听说可能要裁员的消息。",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "哇！这真是一个巨大的惊喜！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "竟然发生了这种事，太让人惊讶了。",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "我完全没料到会是这样的结果。",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "突然收到礼物，惊喜万分！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "意外中奖了，不敢相信！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "朋友突然来访，惊喜又开心！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现隐藏宝藏，震惊不已！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "结果完全出乎意料！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "没想到会在这里遇到你！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "突然被提拔，惊喜又意外！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现新技能，惊喜又兴奋！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "剧情反转，完全没想到！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "突然降温，天气变化太快！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现真相，震惊又意外！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "意外收获，惊喜连连！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "没想到这么简单就成功了！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "突然的好消息，惊喜又感动！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "发现新大陆般的新发现！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "意外相遇，惊喜又怀念！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "结果大反转，震惊全场！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "打开成绩单居然是满分！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "门口站着的居然是多年未见的老同学！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "随手买的彩票居然中了一等奖！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个电影结局太反转了！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "没想到他居然会做这种事！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "生日收到这么多礼物太惊喜！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "面试官居然是我大学同学！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个新技术居然这么厉害！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "冰可乐居然能炸开可乐罐！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "他居然记得十年前的约定！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个隐藏功能居然这么实用！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "考古发现居然这么震撼！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个魔术揭秘后更神奇了！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "他们俩居然是亲兄弟！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个菜谱居然做出了米其林味道！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这APP居然能实时翻译！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这份文件居然藏着这么大秘密！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "他们居然和好了！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个bug修复后性能翻倍！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个冷知识居然是真的！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 75}"
+  },
+  {
+    "input": "那顿饭的味道简直让我反感。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "太恶心了，我再也不想看到这个。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这种味道让人感到厌恶。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到脏乱的环境，很不舒服。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "闻到臭味，恶心想吐。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "食物变质了，看着就反感。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到不文明行为，很厌恶。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "听到恶俗言论，反感又鄙视。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到虫子，恶心又害怕。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "被强迫做不喜欢的事，很反感。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到血腥场面，恶心又恐惧。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "闻到烟味，呛得难受。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到浪费行为，很不满。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "吃到奇怪味道，反感又恶心。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到虚伪的人，厌恶又鄙视。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "被无理纠缠，厌烦又反感。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到污染环境，愤怒又厌恶。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "听到噪音，烦躁又反感。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到欺骗行为，厌恶又愤怒。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "被恶意骚扰，反感又生气。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "脚踩到狗屎太倒霉了！",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "这个菜味道怪怪的难以下咽。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到有人在公共场所乱涂乱画。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "地铁里有人吃韭菜盒子味道很大。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "闻到刺鼻的化学品味道。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到不遵守交通规则的行为。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到乱翻你东西的室友。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "公共马桶圈上的脚印太恶心。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "有人在你面前炫耀真的很烦。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到有人虐待小动物。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "饭店厨房卫生状况堪忧。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到随手乱扔垃圾的人。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "闻到狐臭味赶紧躲开。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到有人偷拍裙底。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "吃到变质的食物想吐。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到插队还理直气壮的人。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到景区被刻字破坏。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "闻到公共厕所的味道。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "遇到借钱不还还删好友的人。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "看到有人在长城上刻字。",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 75}"
+  },
+  {
+    "input": "今天只是平凡的一天。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "我正在看书，感觉很平静。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "天气一般，没什么特别的。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "正常上班，按部就班。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "周末在家休息，很放松。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "日常散步，心情平和。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "做饭吃饭，普通的生活。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "看电视新闻，没什么情绪。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "整理房间，平静又有序。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "写日记记录日常，很平静。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "买菜做饭，日常琐事。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "等公交车，普通的等待。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "浏览网页，没什么感觉。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "喝咖啡休息，平静又舒适。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "整理文件，日常工作。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "洗衣服打扫，家务日常。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "午休时间，平静又放松。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "填写表格，普通的工作。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "回复邮件，日常沟通。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "检查数据，平静又认真。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "早餐吃了包子感觉很平常。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "按照计划去超市买菜。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "下午有个会议要参加。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "查了一下天气说是多云。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "邮箱收到几封工作邮件。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "手机内存需要清理一下。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "晚饭打算吃西红柿炒鸡蛋。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "这本书看了一半还没看完。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "周末打算打扫一下房间。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "闹钟定在早上七点。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "网上买的生活用品到了。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "笔记本需要更新系统。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "抽屉里的数据线有点乱。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "明天要交一份工作报告。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "空调温度设定在26度。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "咖啡喝完了要去超市买。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "衣柜里的衣服需要整理。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "快递预计明天送达。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "自行车轮胎需要打气。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "阳台上的花需要浇水。",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 75}"
+  },
+  {
+    "input": "作业太难了，不会做",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 70.0}"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-06-14T21:47:31.570458",
+    "input_text": "作业太难了，不会做",
+    "predicted": {
+      "emotion": "悲伤",
+      "intensity": 70.0
+    },
+    "actual": {
+      "emotion": "悲伤",
+      "intensity": 70
+    },
+    "is_correct": true,
+    "user_comment": ""
+  },
+  {
+    "timestamp": "2026-06-14T21:47:33.395921",
+    "input_text": "作业太难了，不会做",
+    "predicted": {
+      "emotion": "悲伤",
+      "intensity": 70.0
+    },
+    "actual": {
+      "emotion": "悲伤",
+      "intensity": 70
+    },
+    "is_correct": true,
+    "user_comment": ""
+  }
+]

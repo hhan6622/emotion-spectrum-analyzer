@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-06-14T21:47:39.294076",
+    "type": "incremental",
+    "success": true,
+    "samples_added": 2,
+    "total_samples": 281,
+    "previous_performance": 1.0,
+    "notes": "增量训练，新增2条样本"
+  },
+  {
+    "timestamp": "2026-06-14T21:47:40.919991",
+    "type": "incremental",
+    "success": true,
+    "samples_added": 2,
+    "total_samples": 281,
+    "previous_performance": 1.0,
+    "notes": "增量训练，新增2条样本"
+  },
+  {
+    "timestamp": "2026-06-14T21:47:42.622478",
+    "type": "full",
+    "success": true,
+    "samples_added": 2,
+    "total_samples": 281,
+    "previous_performance": 1.0,
+    "notes": "完整训练，新增2条样本"
+  }
+]
