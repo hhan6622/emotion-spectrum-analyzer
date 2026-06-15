@@ -1,0 +1,74 @@
+[
+  {
+    "input": "听到这个消息我惊呆了",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 85}"
+  },
+  {
+    "input": "看到那只狗我吓得浑身发抖",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 88}"
+  },
+  {
+    "input": "这个东西真让人作呕",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 90}"
+  },
+  {
+    "input": "哇！你中大奖了！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 95}"
+  },
+  {
+    "input": "一个人走夜路真的很害怕",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 70}"
+  },
+  {
+    "input": "今天阳光明媚，心情特别好！",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 92}"
+  },
+  {
+    "input": "他竟然这样欺骗我，太过分了！",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 88}"
+  },
+  {
+    "input": "这次考试没考好，很失落",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 78}"
+  },
+  {
+    "input": "我对这个结果感到非常满意",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 85}"
+  },
+  {
+    "input": "这个食物闻起来真恶心",
+    "output": "{\"emotion\": \"厌恶\", \"intensity\": 80}"
+  },
+  {
+    "input": "今天天气不错",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 30}"
+  },
+  {
+    "input": "得知这个噩耗我心碎了",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 92}"
+  },
+  {
+    "input": "离别总是让人伤感",
+    "output": "{\"emotion\": \"悲伤\", \"intensity\": 70}"
+  },
+  {
+    "input": "收到礼物我非常开心",
+    "output": "{\"emotion\": \"喜悦\", \"intensity\": 88}"
+  },
+  {
+    "input": "这种行为太令人气愤了",
+    "output": "{\"emotion\": \"愤怒\", \"intensity\": 85}"
+  },
+  {
+    "input": "真是出乎意料的结果！",
+    "output": "{\"emotion\": \"惊讶\", \"intensity\": 90}"
+  },
+  {
+    "input": "黑暗中传来奇怪的声音",
+    "output": "{\"emotion\": \"恐惧\", \"intensity\": 75}"
+  },
+  {
+    "input": "今天和平常一样",
+    "output": "{\"emotion\": \"中性\", \"intensity\": 25}"
+  }
+]
